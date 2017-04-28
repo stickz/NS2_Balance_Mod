@@ -1,0 +1,7 @@
+modEntry = {
+	Client = "lua/VertexsBalance/Client.lua",
+	Server = "lua/VertexsBalance/Server.lua",
+	Shared = "lua/VertexsBalance/Shared.lua",
+	FileHooks = "lua/VertexsBalance/Filehook.lua",
+	Priority = 50
+}

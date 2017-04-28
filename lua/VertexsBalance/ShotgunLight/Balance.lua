@@ -1,0 +1,1 @@
+kShotgunTechResearchTime = 45

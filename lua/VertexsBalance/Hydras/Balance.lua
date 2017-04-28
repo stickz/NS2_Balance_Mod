@@ -1,0 +1,1 @@
+kHydraCost = 3
