@@ -1,9 +1,10 @@
 # Vertexs Balance Mod
 
-**Workshop Mod ID**: *TBA*
+**Workshop Mod ID**: *3686a6b8*
+**Workshop Mod Url**: *http://steamcommunity.com/sharedfiles/filedetails/?id=914794168*
 
-This mod incorporates a conserative set of changes from Ghouls Balance Mod. 
-It also includes it's own set of changes designed to improve gameplay.
+This mod incorporates a conserative set of changes from [Ghouls Balance Mod](https://github.com/GhoulofGSG9/NS2_BalanceMod/tree/ghoulsbalancemod). 
+It also includes it's own set of changes.
 
 
 Current changes:
@@ -82,6 +83,6 @@ Current changes:
         - Contamination
             - Disables bile bombs when the Contamination is set on fire.
 
-Code @ Github: TBA
+Code @ Github: https://github.com/stickz/NS2_Balance_Mod/
 
-Feel free to leave feedback ;)
+[Feel free to leave feedback](http://steamcommunity.com/workshop/filedetails/discussion/914794168/1318836262655858188/) ;)
